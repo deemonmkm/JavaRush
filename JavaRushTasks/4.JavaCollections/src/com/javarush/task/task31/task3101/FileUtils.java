@@ -11,4 +11,8 @@ public class FileUtils {
     public static void renameFile(File source, File destination) {
         if (!source.renameTo(destination)) System.out.println("Can not rename file with name " + source.getName());
     }
+
+    public static boolean isExist(File file) {
+        return file.exists();
+    }
 }
