@@ -19,3 +19,7 @@ HTML Editor - https://github.com/fr0zen87/JavaRush/tree/master/JavaRushTasks/3.J
 Ресторан - https://github.com/fr0zen87/JavaRush/tree/master/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task27/task2712
 
 Чат - https://github.com/fr0zen87/JavaRush/tree/master/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task30/task3008
+
+Aggregator - https://github.com/fr0zen87/JavaRush/tree/master/JavaRushTasks/4.JavaCollections/src/com/javarush/task/task28/task2810
+
+Sokoban - https://github.com/fr0zen87/JavaRush/tree/master/JavaRushTasks/4.JavaCollections/src/com/javarush/task/task34/task3410
